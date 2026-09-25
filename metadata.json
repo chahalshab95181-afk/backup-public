@@ -1,0 +1,7 @@
+{
+  "name": "TeleVault Backup",
+  "description": "Automated encrypted backup of multiple local folders to Telegram channels with scheduling, large file chunking, and zero data loss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

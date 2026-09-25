@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield / Vault Circle -->
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M54,26 C41,26 31,34 31,48 C31,64 48,78 54,82 C60,78 77,64 77,48 C77,34 67,26 54,26 Z" />
+    <!-- Inner Dark Accent -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M54,29 C43.5,29 34.5,35.5 34.5,48 C34.5,61.5 48.5,74 54,77.5 C59.5,74 73.5,61.5 73.5,48 C73.5,35.5 64.5,29 54,29 Z" />
+    <!-- Paper Plane / Telegram Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,48 L65,39 L58,63 L52,56 L51,60 L48,53 Z" />
+    <path
+        android:fillColor="#BAE6FD"
+        android:pathData="M52,56 L65,39 L48,53 Z" />
+    <!-- Golden Lock Badge -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M50,60 L58,60 A3,3 0 0,1 61,63 L61,70 A3,3 0 0,1 58,73 L50,73 A3,3 0 0,1 47,70 L47,63 A3,3 0 0,1 50,60 Z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M51,60 L51,57 A3,3 0 0,1 57,57 L57,60 L55,60 L55,57 A1,1 0 0,0 53,57 L53,60 Z" />
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M53.5,65 A1,1 0 1,1 54.5,65 L54.5,68.5 L53.5,68.5 Z" />
+</vector>
+
